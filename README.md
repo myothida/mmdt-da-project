@@ -6,15 +6,15 @@ The Data Analytics track will offer mentees the opportunity to work on data-driv
 1) Log in to GitHub. 
 2) Navigate to the mmdt-da-project: https://github.com/myothida/mmdt-da-project.git
 3) In the top-right corner of the page, click Fork.
-![image](https://github.com/myothida/SML_Teaching/assets/88795729/95a36529-07ec-4b99-83cf-d82fd34b4a35)
+![image](https://github.com/myothida/mmdt-da-project/assets/88795729/d299edb3-f20a-477e-bc93-d79f03d2d835)
 4) Log in to Google Colab.
 5) Open the notebook from GitHub.
    ![image](https://github.com/myothida/SML_Teaching/assets/88795729/6c1e0b1a-9e77-479e-8b81-4b64504cf960)
 6) Edit as per instructions.
 7) Save a copy in your GitHub.
-   ![image](https://github.com/myothida/SML_Teaching/assets/88795729/8c5eec5b-c712-44c8-93d3-3f75872b66cf)
+   ![image](https://github.com/myothida/mmdt-da-project/assets/88795729/81f08677-a9c8-41f5-bf3e-2d468c57c78f)
 8) Go to your Git Hub repo. 
-![image](https://github.com/myothida/SML_Teaching/assets/88795729/e158cd60-8e91-4dc0-80a0-096696f4f4e8)
+![image](https://github.com/myothida/mmdt-da-project/assets/88795729/ed89a3c8-4a5f-488d-a322-9b87399e0984)
 9) If your repo is behind, click 'Sync Fork' first before clicking Contribute.
-    ![image](https://github.com/myothida/SML_Teaching/assets/88795729/3786c211-7185-4057-9a80-70f0fa64a0be)
+  ![image](https://github.com/myothida/mmdt-da-project/assets/88795729/5627237c-4c8c-4ddd-8d7f-d65f0ce62123)
 10) Click Contribute and create a pull request. 
